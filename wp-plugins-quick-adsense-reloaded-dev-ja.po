@@ -1,0 +1,722 @@
+# Translation of Plugins - AdSense Integration WP QUADS - Development (trunk) in Japanese
+# This file is distributed under the same license as the Plugins - AdSense Integration WP QUADS - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-10-13 23:51+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.9\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - AdSense Integration WP QUADS - Development (trunk)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: includes/admin/settings/register-settings.php:174
+msgid "Paste up to 10 Ad codes on Post Body as assigned above, and up to 10 Ad codes on Sidebar Widget. <a href=\"%s\" target=\"_blank\">Read here</a> and find out the most effective AdSense banner sizes."
+msgstr ""
+
+#: includes/admin/settings/display-settings.php:171
+msgid "Share on Facebook"
+msgstr "Facebookで共有"
+
+#: includes/admin/settings/display-settings.php:163
+msgid "Shout out a tweet"
+msgstr ""
+
+#: includes/class-quads-license-handler.php:459
+msgid "Enter valid license key for automatic updates."
+msgstr "自動更新の有効なライセンス キーを入力してください"
+
+#: includes/class-quads-license-handler.php:420
+msgid "You have invalid or expired license keys for WPQUADS PRO. Please go to the <a href=\"%s\" title=\"Go to Licenses page\">Licenses page</a> to correct this issue."
+msgstr "WPQUADS PRO の無効または期限切れのライセンス キーがあります。この問題を修正するため<a href=\"%s\" title=\"Go to Licenses page\">のライセンス ページ</a>をご覧ください。"
+
+#: includes/class-quads-license-handler.php:198
+msgid "Enter your extension license keys here to receive updates for purchased extensions. If your license key has expired, please <a href=\"%s\" target=\"_blank\" title=\"License renewal FAQ\">renew your license</a>."
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:1550
+msgid "If you get an error while saving <a href=\"%s1\" target=\"_blank\">read this.</a>"
+msgstr "もし、あなたが設定をセーブしているときに何らかのエラーが出た場合、<a href=\"%s1\" target=\"_blank\">これをおよみください</a>"
+
+#: includes/admin/settings/register-settings.php:1525
+msgid "Align:"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:1020
+msgid "Your license key expires on %s."
+msgstr "ライセン スキーは、%s に有効期限が切れます。"
+
+#: includes/admin/settings/register-settings.php:1013
+msgid "Your license key expires soon! It expires on %s. <a href=\"%s\" target=\"_blank\" title=\"Renew license\">Renew your license key</a>."
+msgstr "ライセンス キーがもうすぐ期限が切れます！%s<a href=\"%s\" target=\"_blank\" title=\"Renew license\">更新ライセン スキー</a>の期限が切れます。"
+
+#: includes/admin/settings/register-settings.php:1007
+msgid "License key never expires."
+msgstr "有効期限なしのライセンスキー"
+
+#: includes/admin/settings/register-settings.php:987
+msgid "Your license key has reached its activation limit. <a href=\"%s\" target=\"_blank\">View possible upgrades</a> now."
+msgstr "ライセンス キーがライセンス認証制限に達しました。今<a href=\"%s\" target=\"_blank\">アップグレードが可能です</a>。"
+
+#: includes/admin/settings/register-settings.php:978
+msgid "This is not a %s."
+msgstr "これは、%s ではありません。"
+
+#: includes/admin/settings/register-settings.php:968
+msgid "Your %s is not active for this URL. Please <a href=\"%s\" target=\"_blank\" title=\"Visit account page\">visit your account page</a> to manage your license key URLs."
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:956
+msgid "Invalid license. Please <a href=\"%s\" target=\"_blank\" title=\"Visit account page\">visit your account page</a> and verify it."
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:945
+msgid "Your license key expired on %s. Please <a href=\"%s\" target=\"_blank\" title=\"Renew your license key\">renew your license key</a>."
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:521
+msgid "Licenses"
+msgstr "ライセンス"
+
+#: includes/admin/settings/register-settings.php:353
+msgid "Activate Your License"
+msgstr "ライセンスを有効化する"
+
+#: includes/admin/settings/register-settings.php:149
+msgid "Position - automatic"
+msgstr ""
+
+#: includes/admin/admin-notices.php:109
+msgid "WP QUADS and WP QUADS Pro cannot be activated both. We've automatically deactivated WP QUADS Pro."
+msgstr "WP QUADS とWP QUADS Proは一緒に起動することはできません。WP QUADS Proを自動選択しました。"
+
+#: includes/admin/admin-notices.php:107
+msgid "WP QUADS and WP QUADS Pro cannot be activated both. We've automatically deactivated WP QUADS."
+msgstr ""
+
+#: includes/admin/admin-footer.php:27
+msgid "Please do us a BIG favor and give us a 5 star rating <a href=\"%1$s\" target=\"_blank\">here</a> . If you`re not happy, please get in touch with us at support@wpquads.com, so that we can sort it out. Thank you!"
+msgstr ""
+
+#: includes/admin/add-ons.php:45
+msgid "Protect your AdSense Account "
+msgstr "あなたのadsenseアカウントを守る"
+
+#: includes/admin/add-ons.php:38
+msgid "Comes with our 30-day no questions asked money back guarantee"
+msgstr ""
+
+#: includes/admin/add-ons.php:35
+msgid "this plugin keeps the speed of your site"
+msgstr "このプラグインはサイトの表示速度を変えません"
+
+#: includes/admin/add-ons.php:34
+msgid "let the plugin detect optimal ad size on all devices."
+msgstr ""
+
+#: includes/admin/add-ons.php:33
+msgid "select if AdSense is visible on mobile, tablet or desktop"
+msgstr "もし、AdSenseがモバイル、タブレット、パソコンで表示可能（レスポンシブ対応）なら、選択してください"
+
+#: includes/admin/add-ons.php:32
+msgid "individual AdSense sizes for Desktop, Phone and Tablet devices."
+msgstr ""
+
+#: includes/admin/add-ons.php:31
+msgid "Mobile and Responsive AdSense Support "
+msgstr ""
+
+#: includes/admin/add-ons.php:29
+msgid ", save time and earn more with next level AdSense integration!"
+msgstr ""
+
+#: includes/admin/add-ons.php:29
+msgid "WP QUADS PRO"
+msgstr ""
+
+#: includes/admin/admin-pages.php:35
+msgid "Get Add-On"
+msgstr "この拡張機能を取得する"
+
+#: includes/admin/settings/display-settings.php:211
+msgid "if you like this plugin please do us a BIG favor and give us a 5 star rating <a href=\"%1$s\" target=\"_blank\">here</a> . If you`re not happy, please get in touch with us at support@wpquads.com, so that we can sort it out. Thank you!"
+msgstr "もし、このプラグインがいいと思ったら<a href=\"%1$s\" target=\"_blank\">ここで</a>５つ星レビューを付けてください。もし、このプラグインがあまり良くないと感じるのであれば、プラグインを見直しますのでsupport@wpquads.comに連絡してください"
+
+#: includes/admin/add-ons.php:47
+msgid "Fully integrated in WP<strong>QUADS</strong> or completely independant and compatible with <br>any other AdSense Plugin, even with manual inserted ads."
+msgstr ""
+
+#: includes/admin/add-ons.php:46
+msgid "Monitor and protect all your advertisements on your site.<br> Click protection for Google AdSense and other pay per click vendors."
+msgstr ""
+
+#: includes/admin/add-ons.php:42
+msgid "Clickfraud Monitor Integration"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "AdSense Integration WP QUADS"
+msgstr "AdSense Integration WP QUADS"
+
+#: includes/admin/settings/register-settings.php:332
+msgid "A low value loads WP QUADS earlier than other Plugins. Use a higher value for loading WP QUADS later. Try to lower the value to a value less than 10 if not all ads are shown. <strong>Default:</strong> 20"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:331
+msgid "Load Priority"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:180
+msgid "Shortcode: <strong>[quads id=\"1\"] </strong></br>PHP: <strong>echo do_shortcode('[quads id=\"1\"]');</strong>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rene Hermenau, WP-Staging"
+msgstr "Rene Hermenau, WP-Staging"
+
+#: includes/quicktags.php:81
+msgid "Hide ad before last paragraph"
+msgstr "一番最後の段落のまえに表示される広告を隠す"
+
+#: includes/quicktags.php:80
+msgid "Hide ad after MoreTag"
+msgstr "MoreTagに表示される広告を隠す"
+
+#: includes/quicktags.php:79
+msgid "Hide ad on end"
+msgstr "文の一番最後に表示される広告を隠す"
+
+#: includes/quicktags.php:78
+msgid "Hide ad in middle"
+msgstr "真ん中に表示される広告を隠す"
+
+#: includes/quicktags.php:77
+msgid "Hide ad on beginning"
+msgstr "文の一番最初（前）に表示される広告を隠す"
+
+#: includes/quicktags.php:76
+msgid "Hide all ads in sidebar"
+msgstr "サイドバーにある全ての広告を隠す"
+
+#: includes/quicktags.php:75
+msgid "Hide default ads, use manually placed ads"
+msgstr ""
+"デフォルトの広告を削除し、手動で広告を\n"
+"配置する"
+
+#: includes/quicktags.php:74
+msgid "Hide all ads on page"
+msgstr "ページ上の全ての広告を消す"
+
+#: includes/meta-boxes.php:99
+msgid "Nonce incorrect!"
+msgstr "Nonce が正しくありません!"
+
+#: includes/meta-boxes.php:40
+msgid "WP QUADS - Hide Ads"
+msgstr "WP QUADS -広告を隠す"
+
+#: includes/admin/admin-pages.php:29
+msgid "WPQUADS"
+msgstr "WPQUADS"
+
+#: includes/admin/admin-pages.php:29
+msgid "WP QUADS Settings"
+msgstr "WP QUADSの設定"
+
+#: includes/widgets.php:59 includes/widgets.php:100 includes/widgets.php:137
+#: includes/widgets.php:169 includes/widgets.php:202 includes/widgets.php:235
+#: includes/widgets.php:268 includes/widgets.php:301 includes/widgets.php:334
+#: includes/widgets.php:367
+msgid "Widget contains ad code"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:346
+msgid "Check this box if you would like <strong>Settings->WPQUADS</strong> to completely remove all of its data when the plugin is deleted."
+msgstr "このプラグイン"
+
+#: includes/admin/settings/register-settings.php:340
+msgid "Make the WPQUADS settings available from <strong>Settings->WPQUADS</strong> This will remove the primary menu button from the admin sidebar"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:339
+msgid "Settings link"
+msgstr "設定へのリンク"
+
+#: includes/admin/admin-pages.php:31
+msgid "WP <strong>QUADS</strong>"
+msgstr "WP <strong>QUADS</strong>"
+
+#: includes/admin/settings/register-settings.php:1523
+msgid "Margin (px): "
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:1320
+msgid "Hide Ads when user is logged in."
+msgstr "ログインしているユーザーには広告を表示する"
+
+#: includes/admin/settings/register-settings.php:1319
+msgid "Hide AdsWidget on Homepage"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:1318
+msgid "Tags"
+msgstr "タグ"
+
+#: includes/admin/settings/register-settings.php:516
+msgid "Add-On Setting"
+msgstr "拡張機能の設定"
+
+#: includes/admin/settings/register-settings.php:243
+msgid "Shortcode: <strong>[quads id=\"10\"] </strong></br>PHP <strong>echo do_shortcode('[quads id=\"10\"]');</strong>"
+msgstr "ショートコード；<strong>[quads id=\"10\"] </strong></br>PHP <strong>echo do_shortcode('[quads id=\"10\"]');</strong>"
+
+#: includes/admin/settings/register-settings.php:236
+msgid "Shortcode: <strong>[quads id=\"9\"] </strong></br>Function: <strong>echo do_shortcode('[quads id=\"9\"]');</strong>"
+msgstr "ショートコード；<strong>[quads id=\"9\"] </strong></br>Function: <strong>echo do_shortcode('[quads id=\"9\"]');</strong>"
+
+#: includes/admin/settings/register-settings.php:229
+msgid "Shortcode: <strong>[quads id=\"8\"] </strong></br>PHP: <strong>echo do_shortcode('[quads id=\"8\"]');</strong>"
+msgstr "ショートコード；<strong>[quads id=\"8\"] </strong></br>PHP: <strong>echo do_shortcode('[quads id=\"8\"]');</strong>"
+
+#: includes/admin/settings/register-settings.php:222
+msgid "Shortcode: <strong>[quads id=\"7\"] </strong></br>PHP: <strong>echo do_shortcode('[quads id=\"7\"]');</strong>"
+msgstr "ショートコード；<strong>[quads id=\"7\"] </strong></br>PHP: <strong>echo do_shortcode('[quads id=\"7\"]');</strong>"
+
+#: includes/admin/settings/register-settings.php:215
+msgid "Shortcode: <strong>[quads id=\"6\"] </strong></br>PHP: <strong>echo do_shortcode('[quads id=\"6\"]');</strong>"
+msgstr "ショートコード； <strong>[quads id=\"6\"] </strong></br>PHP: <strong>echo do_shortcode('[quads id=\"6\"]');</strong>"
+
+#: includes/admin/settings/register-settings.php:201
+msgid "Shortcode: <strong>[quads id=\"4\"] </strong></br>PHP: <strong>echo do_shortcode('[quads id=\"4\"]');</strong>"
+msgstr "ショートコード；<strong>[quads id=\"4\"] </strong></br>PHP: <strong>echo do_shortcode('[quads id=\"4\"]');</strong>"
+
+#: includes/admin/settings/register-settings.php:194
+msgid "Shortcode: <strong>[quads id=\"3\"] </strong></br>PHP: <strong>echo do_shortcode('[quads id=\"3\"]');</strong>"
+msgstr "ショートコード；<strong>[quads id=\"3\"] </strong></br>PHP: <strong>echo do_shortcode('[quads id=\"3\"]');</strong>"
+
+#: includes/admin/settings/register-settings.php:187
+msgid "Shortcode: <strong>[quads id=\"2\"] </strong></br>PHP: <strong>echo do_shortcode('[quads id=\"2\"]');</strong>"
+msgstr "ショートコード；<strong>[quads id=\"2\"] </strong></br>PHP: <strong>echo do_shortcode('[quads id=\"2\"]');</strong>"
+
+#: includes/admin/settings/register-settings.php:208
+msgid "Shortcode: <strong>[quads id=\"5\"] </strong></br>PHP: <strong>echo do_shortcode('[quads id=\"5\"]');</strong>"
+msgstr "ショートコード；<strong>[quads id=\"5\"] </strong></br>PHP: <strong>echo do_shortcode('[quads id=\"5\"]');</strong>"
+
+#. Description of the plugin/theme
+msgid "Insert Google AdSense or any Ads code into your website. A fork of Quick AdSense"
+msgstr "Google Adsenseやその他の広告コードをあなたのwebサイトに挿入することができます。"
+
+#. #-#-#-#-#  tmp-quick-adsense-reloaded.pot (AdSense Integration WP QUADS
+#. 1.2.6)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-quick-adsense-reloaded.pot (AdSense Integration WP QUADS
+#. 1.2.6)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://wordpress.org/plugins/quick-adsense-reloaded/"
+msgstr "https://wordpress.org/plugins/quick-adsense-reloaded/"
+
+#: quick-adsense-reloaded.php:136 quick-adsense-reloaded.php:148
+msgid "Cheatin&#8217; huh?"
+msgstr "間違えましたか ?"
+
+#: includes/scripts.php:45
+msgid "error"
+msgstr "エラー"
+
+#: includes/class-quads-license-handler.php:303
+msgid "Nonce verification failed"
+msgstr "Nonce 検証に失敗しました"
+
+#: includes/class-quads-license-handler.php:165
+msgid "%1$s License Key"
+msgstr "%1$ ライセンスキー"
+
+#: includes/class-quads-html-elements.php:45
+#: includes/libraries/class-quads-html-elements.php:45
+msgctxt "no dropdown items"
+msgid "None"
+msgstr ""
+
+#: includes/class-quads-html-elements.php:44
+#: includes/libraries/class-quads-html-elements.php:44
+msgctxt "all dropdown items"
+msgid "All"
+msgstr "すべて"
+
+#: includes/admin/tools.php:530
+msgid "Most of settings have been already imported successfully! (If not we probably have an unknown issue here)"
+msgstr "ほとんどの設定は、既に正常にインポートされています。(されていない場合、おそらくここに原因不明の問題があるでしょう)"
+
+#: includes/admin/tools.php:526
+msgid "Most of the settings have been sucessfully imported from Quick AdSense <br> but due to some inconsistencies there are still some options which needs your attention and manual adjusting."
+msgstr "ほとんどの設定は正常にQuick AdSense からインポートされています。<br>しかし、いくつかの不整合のためにまだあなたの調整を必要とするいくつかのオプションがあります。"
+
+#: includes/admin/tools.php:491
+msgid "Start Import process"
+msgstr "インポート プロセスを開始します"
+
+#: includes/admin/tools.php:483
+msgid "Import the settings for Quick AdSense Reloaded from Quick AdSense v. 1.9.2."
+msgstr "Quick AdSense v. 1.9.2.からQuick AdSense Reloadedのための簡単な AdSense の再読み込みの設定をインポートする"
+
+#: includes/admin/tools.php:481
+msgid "Import from Quick AdSense"
+msgstr "Quick AdSenseからインポートする"
+
+#: includes/admin/tools.php:224
+msgid "Please upload a file to import"
+msgstr "インポートするファイルをアップロードしてください。"
+
+#: includes/admin/tools.php:218
+msgid "Please upload a valid .json file"
+msgstr "有効な .json ファイルをアップロードしてください。"
+
+#: includes/admin/tools.php:116
+msgid "Import"
+msgstr "インポート"
+
+#: includes/admin/tools.php:108
+msgid "Import the Quick AdSense Reloaded settings from a .json file. This file can be obtained by exporting the settings on another site using the form above."
+msgstr ""
+
+#: includes/admin/tools.php:106
+msgid "Import Settings"
+msgstr "設定のインポート"
+
+#: includes/admin/tools.php:99
+msgid "Export"
+msgstr "エクスポート"
+
+#: includes/admin/tools.php:93
+msgid "Export the Quick AdSense Reloaded settings for this site as a .json file. This allows you to easily import the configuration into another site."
+msgstr ".Json ファイルとしてこのサイトのQuick AdSense Reloadedの設定をエクスポートする。これは、簡単に別のサイトに構成をインポートすることができます"
+
+#: includes/admin/tools.php:91
+msgid "Export Settings"
+msgstr "設定のエクスポート"
+
+#: includes/admin/tools.php:69
+msgid "System Info"
+msgstr "システム情報"
+
+#: includes/admin/settings/register-settings.php:1440
+msgid "Tags can be inserted into a post via the additional Quicktag Buttons at the HTML Edit Post SubPanel."
+msgstr "タグは、HTML の投稿、編集画面にある追加クイックタグ ボタンを介して投稿に挿入できます。"
+
+#: includes/admin/settings/register-settings.php:1435
+msgid "Hide <span class=\"quads-quote-docs\">&lt;!--RndAds--&gt;</span> from Quicktag Buttons ]"
+msgstr "<span class=\"quads-quote-docs\">&lt;!--RndAds--&gt;</span>をクイックタグボタンから隠す"
+
+#: includes/admin/settings/register-settings.php:1433
+msgid "Show Quicktag Buttons on the HTML Edit Post SubPanel"
+msgstr "HTML の投稿、編集画面のクイックタグ ボタンを表示する"
+
+#: includes/admin/settings/register-settings.php:1429
+msgid "Insert <span class=\"quads-quote-docs\">&lt;!--RndAds--&gt;</span> into a post to show the <b>Random Ads</b> at specific location"
+msgstr "特定の場所に ランダム広告 を挿入するには<span class=\"quads-quote-docs\">&lt;!--RndAds--&gt;</span>を記事に挿入してくださいします。"
+
+#: includes/admin/settings/register-settings.php:1428
+msgid "Insert <span class=\"quads-quote-docs\">&lt;!--Ads1--&gt;</span>, <span class=\"quads-quote-docs\">&lt;!--Ads2--&gt;</span>, etc. into a post to show the <b>Particular Ads</b> at specific location."
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:1426
+msgid " Insert Ads into a post, on-the-fly"
+msgstr "その場で記事に広告を挿入"
+
+#: includes/admin/settings/register-settings.php:1407
+msgid "after <b>Image's outer</b><b><span style=\"font-family:Courier New,Courier,Fixed;\"> &lt;div&gt; wp-caption</span></b> if any."
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:1403
+msgid "<strong>After Image</strong>"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:1377
+#: includes/admin/settings/register-settings.php:1387
+#: includes/admin/settings/register-settings.php:1397
+msgid "to <strong>End of Post</strong> if fewer paragraphs are found."
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:1375
+#: includes/admin/settings/register-settings.php:1385
+#: includes/admin/settings/register-settings.php:1395
+#: includes/admin/settings/register-settings.php:1405
+msgid "→"
+msgstr "→"
+
+#: includes/admin/settings/register-settings.php:1373
+#: includes/admin/settings/register-settings.php:1383
+#: includes/admin/settings/register-settings.php:1393
+msgid "<strong>After Paragraph</strong>"
+msgstr "<strong>段落の後</strong>"
+
+#: includes/admin/settings/register-settings.php:1367
+msgid "right before <strong>the last Paragraph</strong>"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:1361
+msgid "right after <strong>the <span style=\"font-family:Courier New,Courier,Fixed;\">&lt;!--more--&gt;</span> tag</strong>"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:1355
+msgid "to <strong>End of Post</strong>"
+msgstr "<strong>記事の最後</strong> に"
+
+#: includes/admin/settings/register-settings.php:1349
+msgid "to <strong>Middle of Post</strong>"
+msgstr "<strong>記事の真ん中</strong> に"
+
+#: includes/admin/settings/register-settings.php:1343
+msgid "to <strong>Beginning of Post</strong>"
+msgstr "<strong>記事の最初</strong> に"
+
+#: includes/admin/settings/register-settings.php:1341
+#: includes/admin/settings/register-settings.php:1347
+#: includes/admin/settings/register-settings.php:1353
+#: includes/admin/settings/register-settings.php:1359
+#: includes/admin/settings/register-settings.php:1365
+#: includes/admin/settings/register-settings.php:1371
+#: includes/admin/settings/register-settings.php:1381
+#: includes/admin/settings/register-settings.php:1391
+#: includes/admin/settings/register-settings.php:1401
+#: includes/admin/settings/register-settings.php:1468
+msgid "Assign"
+msgstr "割り当て"
+
+#: includes/admin/settings/register-settings.php:1317
+msgid "Archives "
+msgstr "記事"
+
+#: includes/admin/settings/register-settings.php:1316
+msgid "Categories "
+msgstr "カテゴリー"
+
+#: includes/admin/settings/register-settings.php:1315
+msgid "Homepage "
+msgstr "ホームページ"
+
+#: includes/admin/settings/register-settings.php:1314
+msgid "Pages"
+msgstr "固定ページ"
+
+#: includes/admin/settings/register-settings.php:1312
+msgid "Posts "
+msgstr "投稿"
+
+#: includes/admin/settings/register-settings.php:1266
+msgid "Random Ads"
+msgstr "ランダム広告"
+
+#: includes/admin/settings/register-settings.php:1252
+msgid "Log file directory not writable! Set FTP permission to 755 or 777 for /wp-content/plugins/quadssharer/logs/"
+msgstr "ログファイルをディレクトリに書き込めませんでした。/wp-content/plugins/quadssharer/logs/のパーミッションを777または755に設定してください"
+
+#: includes/admin/settings/register-settings.php:1239
+msgid "Transient Cache disabled! Enable it for performance increase."
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:1118
+msgid "Select Image"
+msgstr "画像を選択"
+
+#: includes/admin/settings/register-settings.php:1037
+msgid "Deactivate License"
+msgstr "有効ではないライセンス"
+
+#: includes/admin/settings/register-settings.php:876
+msgid "Upload File"
+msgstr "ファイルをアップロード"
+
+#: includes/admin/settings/register-settings.php:765
+msgid "The callback function used for the <strong>%s</strong> setting is missing."
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:526
+#: includes/admin/tools.php:68
+msgid "Import/Export"
+msgstr "インポート/エクスポート"
+
+#: includes/admin/settings/register-settings.php:508
+msgid "Visual"
+msgstr "ビジュアル"
+
+#: includes/admin/settings/register-settings.php:475
+msgid "Settings updated."
+msgstr "設定を更新しました。"
+
+#: includes/admin/settings/register-settings.php:394
+msgid "This does not minify javascript and css files. This makes debugging much easier and is recommended setting for inspecting issues on your site"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:393
+msgid "Debug mode"
+msgstr "デバッグモード"
+
+#: includes/admin/settings/register-settings.php:387
+msgid "Systeminfo"
+msgstr "システム情報"
+
+#: includes/admin/settings/register-settings.php:382
+msgid "Something not working as expected? Visit the WP<strong>QUADS</strong> <a href=\"%1s\" target=\"_blank\">Support Forum</a>"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:381
+#: includes/admin/settings/register-settings.php:528
+msgid "Help"
+msgstr "ヘルプ"
+
+#: includes/admin/settings/register-settings.php:345
+msgid "Remove Data on Uninstall?"
+msgstr "データを削除、またはアンインストールしますか？"
+
+#: includes/admin/settings/register-settings.php:325
+msgid "Plugin Settings"
+msgstr "プラグイン設定"
+
+#: includes/admin/settings/register-settings.php:318
+msgid "Ad widget 10"
+msgstr "広告ウィジット 10"
+
+#: includes/admin/settings/register-settings.php:311
+msgid "Ad widget 9"
+msgstr "広告ウィジット 9"
+
+#: includes/admin/settings/register-settings.php:304
+msgid "Ad widget 8"
+msgstr "広告ウィジット 8"
+
+#: includes/admin/settings/register-settings.php:297
+msgid "Ad widget 7"
+msgstr "広告ウィジット 7"
+
+#: includes/admin/settings/register-settings.php:290
+msgid "Ad widget 6"
+msgstr "広告ウィジット 6"
+
+#: includes/admin/settings/register-settings.php:283
+msgid "Ad widget 5"
+msgstr "広告ウィジット 5"
+
+#: includes/admin/settings/register-settings.php:276
+msgid "Ad widget 4"
+msgstr "広告ウィジット 4"
+
+#: includes/admin/settings/register-settings.php:269
+msgid "Ad widget 3"
+msgstr "広告ウィジット 3"
+
+#: includes/admin/settings/register-settings.php:262
+msgid "Ad widget 2"
+msgstr "広告ウィジット 2"
+
+#: includes/admin/settings/register-settings.php:255
+msgid "Ad widget 1"
+msgstr "広告ウィジット 1"
+
+#: includes/admin/settings/register-settings.php:250
+msgid "Every code block creates an unique ad widget in the <a href=\"%s\" target=\"_self\">widget section</a> of WordPress"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:249
+msgid "Widgets Code"
+msgstr "ウィジットコード"
+
+#: includes/admin/settings/register-settings.php:173
+msgid "AdSense Code"
+msgstr "アドセンスコード"
+
+#: includes/admin/settings/register-settings.php:161
+msgid "Quicktags"
+msgstr "クイックタグ"
+
+#: includes/admin/settings/register-settings.php:155
+msgid "Visibility"
+msgstr "公開状態:"
+
+#: includes/admin/settings/register-settings.php:150
+msgid "Select on which post_types the share buttons appear. This values will be ignored when position is specified \"manual\"."
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:131
+msgid "(Google allows publishers to place up to 3 Adsense for Content on a page. If you have placed these ads manually in the page, you will need to take those into account. If you are using other Ads services, you may select up to 10 Ads.)"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:130
+msgid "Ads on a page. Select up to <strong>3 Ads only</strong> if you are solely using Google Ads."
+msgstr "ページ上に表示する広告数.もし、あなたがグーグルアドセンスを使用しているのであれば３を設定してください"
+
+#: includes/admin/settings/register-settings.php:129
+msgid "Adsense:"
+msgstr "アドセンス："
+
+#: includes/admin/settings/register-settings.php:124
+msgid " "
+msgstr ""
+
+#: includes/admin/settings/display-settings.php:267
+msgid "Share"
+msgstr "シェア"
+
+#: includes/admin/settings/display-settings.php:259
+msgid "Tweet"
+msgstr "ツイート"
+
+#: includes/admin/settings/contextual-help.php:42
+msgid "This screen provides the most basic settings for configuring Quick AdSense Reloaded."
+msgstr ""
+
+#: includes/admin/settings/contextual-help.php:41
+#: includes/admin/settings/register-settings.php:505
+msgid "General"
+msgstr "一般"
+
+#: includes/admin/settings/contextual-help.php:32
+msgid "<a href=\"%s\">Post an issue</a> on <a href=\"%s\">Quick AdSense Reloaded</a>. View <a href=\"%s\">extensions</a>."
+msgstr ""
+
+#: includes/admin/settings/contextual-help.php:30
+msgid "Visit the <a href=\"%s\">documentation</a> on the Quick AdSense Reloaded website."
+msgstr ""
+
+#: includes/admin/settings/contextual-help.php:29
+msgid "For more information:"
+msgstr ""
+
+#: includes/admin/plugins.php:27
+#: includes/admin/settings/register-settings.php:123
+msgid "General Settings"
+msgstr "一般設定"
+
+#: includes/admin/add-ons.php:74
+msgid "There was an error retrieving the Quick AdSense Reloaded addon list from the server. Please try again later."
+msgstr ""
+
+#: includes/admin/add-ons.php:43
+msgid "See Details"
+msgstr ""
+
+#: includes/admin/add-ons.php:43
+msgid "Visit Website"
+msgstr ""
+
+#: includes/QUADS_SL_Plugin_Updater.php:325
+#: includes/class-quads-license-handler.php:303
+msgid "Error"
+msgstr ""
+
+#: includes/QUADS_SL_Plugin_Updater.php:325
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: includes/QUADS_SL_Plugin_Updater.php:185
+msgid "There is a new version of %1$s available. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s\">update now</a>."
+msgstr ""
+
+#: includes/QUADS_SL_Plugin_Updater.php:178
+msgid "There is a new version of %1$s available. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
